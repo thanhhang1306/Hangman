@@ -3,7 +3,7 @@ The following project provides a recreation of the popular game Space Invader, w
 
 
 ## Installation
-Use a Java Integrated Development Environment, such as Eclipse, to run the code. Every file but the README.md file is required for the game to function. 
+Use a Java Integrated Development Environment, such as Eclipse, to run the code. Every file but the README.md file and files in the bin folder are required for the game to function. 
 
 
 ## Contributing
