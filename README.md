@@ -1,5 +1,5 @@
 # Hangman (a recreation by Hang Pham)
-The following project provides a recreation of the popular game Space Invader, with the word bank being computer science terms. This was one of Hang's many Java projects during her studies in high school, where she redeveloped games that played a huge role in her childhood. Note that this game has only been tested on Windows OS, not Mac OS. Therefore, playing on Mac OS might lead to incompatible fonts and other issues.
+The following project provides a recreation of the popular game Hangman, with the word bank being computer science terms. This was one of Hang's many Java projects during her studies in high school, where she redeveloped games that played a huge role in her childhood. Note that this game has only been tested on Windows OS, not Mac OS. Therefore, playing on Mac OS might lead to incompatible fonts and other issues.
 
 ## Guide to Game 
 Guess the computer science terms before the child is eaten by the scary clown by typing the appropriate letters! A word bank is available for your convenience. More instructions are available within the game.
